@@ -7,7 +7,7 @@ Jian K. Liu.
 
 NEURON.zip includes the code based on the [NEURON](https://neuron.yale.edu/neuron/). 
 
-The code was developed based on many previous work and models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb). Particularly the following one: 
+The code was developed based on many previous works/models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb). Particularly the following one: 
 
 Using Strahlerís analysis to reduce up to 200-fold the run time of realistic neuron models, by A. Marasco, A.Limongiello, and M.Migliore
 (2013) Sci. Rep. 3, 2934; DOI:[10.1038/srep02934](https://doi.org/10.1038/srep02934).
