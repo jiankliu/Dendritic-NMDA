@@ -2,8 +2,7 @@
 
 Here is the code used in the following paper:
 
-Diverse role of NMDA receptors for dendritic integration of neural dynamics. Yuanhong Tang, Xingyu Zhang, Lingling An, Zhaofei Yu, 
-Jian K. Liu.
+Diverse role of NMDA receptors for dendritic integration of neural dynamics. Tang Y., Zhang X., An L., Yu Z., Liu, J. K.
 
 NEURON.zip includes the code based on the [NEURON](https://neuron.yale.edu/neuron/). 
 
