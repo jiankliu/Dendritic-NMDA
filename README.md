@@ -10,7 +10,7 @@ NEURON.zip includes the code based on the NEURON package (https://neuron.yale.ed
 The code was developed based on many previous work, including the following one and other models in the NEURON ModelDB (https://senselab.med.yale.edu/modeldb):
 
 Using Strahlerís analysis to reduce up to 200-fold the run time of realistic neuron models, by A. Marasco, A.Limongiello, and M.Migliore
-(2013) Sci. Rep. 3, 2934; DOI:10.1038/srep02934.
+(2013) Sci. Rep. 3, 2934; DOI:[10.1038/srep02934](https://doi.org/10.1038/srep02934).
 
 The code was also used for the following work: 
 
