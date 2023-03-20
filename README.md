@@ -4,7 +4,7 @@ Here is the code used in the following paper:
 
 Diverse role of NMDA receptors for dendritic integration of neural dynamics. Tang Y., Zhang X., An L., Yu Z., Liu, J. K.
 
-The zip file includes the code based on the [NEURON](https://neuron.yale.edu/neuron/). The code was developed based on many previous works/models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb), where one can find various types of detailed neuropnal models.
+The zip file includes the code based on the [NEURON](https://neuron.yale.edu/neuron/). The code was developed based on many previous works/models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb), where one can find various types of detailed neuronal models.
 
 The similar code was used for the following papers:
 
