@@ -8,10 +8,6 @@ Coding Capacity of Purkinje Cells with Different Schemes of Morphological Reduct
 
 NEURON.zip includes the code based on the [NEURON](https://neuron.yale.edu/neuron/). 
 
-The code was developed based on many previous works/models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb), particularly the following one: 
-
-Using Strahlerís analysis to reduce up to 200-fold the run time of realistic neuron models, A. Marasco, A.Limongiello, and M.Migliore
-(2013) Sci. Rep. 3, 2934; DOI:[10.1038/srep02934](https://doi.org/10.1038/srep02934).
-
+The code was developed based on many previous works/models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb).
 
 
