@@ -2,7 +2,7 @@
 
 Here is the code used in the following paper:
 
-Diverse role of NMDA receptors for dendritic integration of neural dynamics. Tang Y., Zhang X., An L., Yu Z., Liu, J. K. PLoS Comput Biol (2023) 19(4): e1011019 (2023) DOI: 10.1371/journal.pcbi.1011019(https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019)
+Diverse role of NMDA receptors for dendritic integration of neural dynamics. Tang Y., Zhang X., An L., Yu Z., Liu, J. K. PLoS Comput Biol (2023) 19(4): e1011019 (2023) DOI: [10.1371/journal.pcbi.1011019](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1011019)
 
 The zip file includes the code based on the [NEURON](https://neuron.yale.edu/neuron/). The code was developed based on many previous works/models in the NEURON [ModelDB](https://senselab.med.yale.edu/modeldb), where one can find various types of detailed neuronal models.
 
