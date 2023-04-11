@@ -8,6 +8,6 @@ The zip file includes the code based on the [NEURON](https://neuron.yale.edu/neu
 
 The similar code was used for the following papers:
 
-Coding Capacity of Purkinje Cells with Different Schemes of Morphological Reduction, An, L., Tang, Y., Wang, Q., Pei, Q., Wei, R., Duan, H., and Liu, J. K., Frontier in Computational Neuroscience 13:29 DOI:[10.3389/fncom.2019.00029](https://www.frontiersin.org/articles/10.3389/fncom.2019.00029/full).
+Coding Capacity of Purkinje Cells with Different Schemes of Morphological Reduction, An, L., Tang, Y., Wang, Q., Pei, Q., Wei, R., Duan, H., and Liu, J. K., Frontier in Computational Neuroscience 13:29 DOI:[10.3389/fncom.2019.00029](https://www.frontiersin.org/articles/10.3389/fncom.2019.00029/full)
 
 
